@@ -12,6 +12,6 @@ Each assignment is organized by folder name.
 ---
 
 🗂 **Total Assignments**: 8  
-📅 **Course Timeline**: Fall 2024  
+📅 **Course Timeline**: Spring 2024  
 👨‍🏫 **Instructor**: Dr. Murali Shanker & Dr. Shahla Asadi
 📝 **Note**: Some in-class assignments are not included due to submission restrictions or format limitations.
